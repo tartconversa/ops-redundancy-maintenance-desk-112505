@@ -3,7 +3,7 @@
 {"received":18,"occurred":18,"kind":"route_active","job":"m21","device":"alt-c","permit":null,"value":35}
 {"received":19,"occurred":18,"kind":"lease_seen","job":"m21","device":null,"permit":"p21","value":null}
 {"received":23,"occurred":20,"kind":"lease_expired","job":"m21","device":null,"permit":"p21","value":null}
-{"received":25,"occurred":21,"kind":"work_started","job":"m21","device":"pri-a","permit":"p21","value":null}
+{"received":25,"occurred":19,"kind":"work_started","job":"m21","device":"pri-a","permit":"p21","value":null}
 {"received":26,"occurred":24,"kind":"work_started","job":"m21","device":"alt-a","permit":"p21","value":null}
 {"received":27,"occurred":27,"kind":"fault","job":null,"device":"idx-e","permit":null,"value":null}
 {"received":31,"occurred":31,"kind":"permit_unused","job":"m22","device":null,"permit":"p22","value":null}
