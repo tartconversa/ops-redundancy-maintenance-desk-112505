@@ -1,0 +1,6 @@
+{"device":"pri-a","fault_domain":"power-a","capacity":60,"warm_min":7,"services":["serve/east","index/east"]}
+{"device":"pri-b","fault_domain":"power-b","capacity":63,"warm_min":6,"services":["serve/east"]}
+{"device":"alt-a","fault_domain":"power-a","capacity":37,"warm_min":8,"services":["serve/east","index/east"]}
+{"device":"alt-c","fault_domain":"power-c","capacity":48,"warm_min":6,"services":["serve/east","index/east"]}
+{"device":"idx-d","fault_domain":"power-d","capacity":43,"warm_min":5,"services":["index/east"]}
+{"device":"idx-e","fault_domain":"power-e","capacity":30,"warm_min":5,"services":["index/east"]}

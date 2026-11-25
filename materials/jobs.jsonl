@@ -1,0 +1,5 @@
+{"job":"m21","crew":"cabinet","all_devices":["pri-a","alt-a"],"earliest":12,"latest":27,"duration_min":14,"rank":90}
+{"job":"m22","crew":"network","all_devices":["alt-c"],"earliest":20,"latest":47,"duration_min":8,"rank":70}
+{"job":"m23","crew":"repair","all_devices":["pri-b"],"earliest":22,"latest":45,"duration_min":10,"rank":80}
+{"job":"m24","crew":"network","all_devices":["idx-d"],"earliest":26,"latest":55,"duration_min":9,"rank":64}
+{"job":"m25","crew":"repair","all_devices":["idx-e"],"earliest":38,"latest":61,"duration_min":8,"rank":50}

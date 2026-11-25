@@ -1,0 +1,4 @@
+{"service":"serve/east","peak_min":0,"load":70,"min_domains":2}
+{"service":"serve/east","peak_min":32,"load":88,"min_domains":2}
+{"service":"index/east","peak_min":0,"load":42,"min_domains":2}
+{"service":"index/east","peak_min":44,"load":49,"min_domains":2}
